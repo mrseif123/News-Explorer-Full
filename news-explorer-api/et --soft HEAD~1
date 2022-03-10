@@ -1,0 +1,161 @@
+[33mcommit 1c87eca4f988fd30b5febe041c56d68f5fae5703[m[33m ([m[1;36mHEAD -> [m[1;32mstage-1[m[33m, [m[1;31morigin/stage-1[m[33m)[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Fri Mar 4 19:19:13 2022 +0200
+
+    trying to fix save article
+
+[33mcommit 2fd0ccf97de3d1972bd04fe83b6c0057ec083fce[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Fri Mar 4 19:11:41 2022 +0200
+
+    trying to fix save article
+
+[33mcommit be548756630da181a26c1244ce54c26908f36799[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Fri Mar 4 18:36:55 2022 +0200
+
+    trying to fix save article
+
+[33mcommit 1f4bf992216ab8332ded560286c0c479a6eb8015[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Fri Mar 4 18:29:02 2022 +0200
+
+    trying to fix save article
+
+[33mcommit 502d679ddb61690dddeec813fe13e48a10cc5fd6[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Fri Mar 4 18:06:41 2022 +0200
+
+    fix names
+
+[33mcommit dc8b05fe777f203b36f519aa21e5cde4e30200e3[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Fri Mar 4 17:06:29 2022 +0200
+
+    fix routing to add article
+
+[33mcommit eb22ba350207ba9732883ae9ead2d37b28a202b7[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Fri Mar 4 15:55:53 2022 +0200
+
+    fixing articles saving
+
+[33mcommit 3b01764f13ad5406d162e44a72da30380d1853c5[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Fri Mar 4 15:42:34 2022 +0200
+
+    article validation
+
+[33mcommit 1442951802fbfb071af5053d1fe5ef6e0acc535b[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Fri Mar 4 15:30:07 2022 +0200
+
+    changes link
+
+[33mcommit 98289aca778c40d4c11599014d992ae59a670c89[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Sat Feb 12 18:12:07 2022 +0200
+
+    removed post aricle validation
+
+[33mcommit 501247cf0153981e4e73c0a6f6aa23adf1698a0c[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Sat Feb 12 17:41:13 2022 +0200
+
+    fixed add articles
+
+[33mcommit c58324a412565763c2b78bb1a5c26fec07a56705[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Thu Jan 13 10:18:27 2022 +0200
+
+    hotfix: invalid deletion error code
+
+[33mcommit bb3c163a417b5c87e9505915055c6fb43a124e1f[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Tue Jan 11 11:15:37 2022 +0200
+
+    fix: API's
+
+[33mcommit 0a36442c1e35195103074f200c3741a2508e060a[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Tue Jan 11 10:28:40 2022 +0200
+
+    Added constant & rate limiter
+
+[33mcommit 3f61d3f93306b6f3b07e025e1936e9b90774b5a5[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Mon Jan 10 15:04:05 2022 +0200
+
+    Error handling system updated, added constants
+
+[33mcommit 88ac3dcdd265f3886963e7468617d9c7d2b72a86[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Mon Jan 10 14:30:12 2022 +0200
+
+    fix: error handling, code refactor
+
+[33mcommit c756f705559d077012e0a9ae632538d6b9beb1da[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Sat Jan 8 11:13:50 2022 +0200
+
+    server works
+
+[33mcommit 0d0350eca706f17613c2ced03e2a37b0e83bbfd6[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Sat Jan 8 11:10:33 2022 +0200
+
+    fix: code split
+
+[33mcommit 828d52d1bdf1be132b09864509c0612ff32c1848[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Sat Jan 1 19:15:01 2022 +0200
+
+    add: app.js
+
+[33mcommit e4fe277fd3814cdc721856025bd0d2ba6cdaf9b9[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Sat Jan 1 18:01:33 2022 +0200
+
+    added routes
+
+[33mcommit e44719e454dc29eaeb34761932e8bb8dd8187b19[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Sat Jan 1 17:51:46 2022 +0200
+
+    added middlewares: auth & logger
+
+[33mcommit 8bd986dc07a5bc2b00748d19dd930e14acaf9cd5[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Sat Jan 1 17:47:09 2022 +0200
+
+    added erros & controllers
+
+[33mcommit 5fca2223ee69ee467ea50fc4a88f5a6841c7e2a9[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Sat Jan 1 17:27:27 2022 +0200
+
+    fix: add keywords to article schemas
+
+[33mcommit 328dd39cc573855a90c1baadf683d2adb946ef08[m[33m ([m[1;32mmain[m[33m)[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Sat Jan 1 17:20:07 2022 +0200
+
+    created schemas
+
+[33mcommit 05456fb4e3b0738fe71ced4c1e24f2e822a6f7f9[m
+Author: Seaf Aliyan <codo47@gmail.com>
+Date:   Sat Jan 1 16:54:33 2022 +0200
+
+    backend initialization
+
+[33mcommit 0d478434d4ba665b43fb565e932e4cb3c4c74f79[m
+Author: Seaf Aliyan <30297892+mrseif123@users.noreply.github.com>
+Date:   Sat Jan 1 10:33:52 2022 +0200
+
+    Create .gitignore
+
+[33mcommit 786165c11e24fda9b042cf38273092097cbc3d7b[m
+Author: Seaf Aliyan <30297892+mrseif123@users.noreply.github.com>
+Date:   Sat Jan 1 10:30:07 2022 +0200
+
+    Initial commit
